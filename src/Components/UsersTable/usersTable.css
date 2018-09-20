@@ -1,0 +1,9 @@
+.users-table,
+.users-count {
+    margin: 20px;
+}
+
+.users-table td, th {
+    padding: 10px;
+    border: 1px solid #000;
+}
